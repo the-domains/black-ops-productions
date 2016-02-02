@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Black Ops Productions]]></title>
         <description><![CDATA[Black Ops Productions]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/black-ops-productions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 17:38:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 17:46:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/black-ops-productions/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://blackopsanimation.com/sites/default/files/team1.jpg">]]></description>
+            <link>https://thegrid.ai/black-ops-productions/8dcabdc4-f2e3-412b-95ad-a66a8e20e573/index.html</link>
+            <guid isPermaLink="false">8dcabdc4-f2e3-412b-95ad-a66a8e20e573</guid>
+            <pubDate>Tue, 02 Feb 2016 17:46:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Black Ops Animation was founded to fill a need within the commercial and military industries to ensure accuracy regarding all things military. We have years of experience providing training, anmations, graphic design, special effects and consulting services.Whether it is vehicles, maintenance, tactics, techniques, ordinance or training we can provide you the support you need.</p>]]></description>
-            <link>undefined0ec548f5-8f31-4e4a-9317-6cce644f8d53/index.html</link>
+            <link>https://thegrid.ai/black-ops-productions/0ec548f5-8f31-4e4a-9317-6cce644f8d53/index.html</link>
             <guid isPermaLink="false">0ec548f5-8f31-4e4a-9317-6cce644f8d53</guid>
             <pubDate>Tue, 02 Feb 2016 17:38:25 GMT</pubDate>
         </item>
